@@ -8,7 +8,8 @@
 - [Installation](#installation)
 
 ## Landing Page 
-![Uploading Screenshot 2025-02-25 at 22-31-08 Vite React.png…]()
+![Screenshot 2025-02-25 at 22-31-08 Vite React](https://github.com/user-attachments/assets/8c0f9ff9-081b-441f-807d-8779e230c209)
+
 
 
 
